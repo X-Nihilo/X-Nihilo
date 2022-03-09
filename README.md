@@ -33,7 +33,7 @@ security automation. That said i think i can pass for a Dev since among other la
 `Python`, `Ruby` `JS` and generally `NodeJS` and friends. And of course `Sh` and `Bash`.
 
 I didn't say i was an expert so don't get your hopes up, also if i make a killer malware i gotta consult the cyber
-Gods before i OSS something like that? Well that's what i was told. Personally i think if i can have a Rootkit you should
+Gods before i OSS something like that, right? Well that's what i was told. Personally i think if i can have a Rootkit you should
 be able to have one too.
 
 Oh i almost forgot, testing, developing, and reverse engineering malware. Has made me quite adapt at Virtualization and Container
